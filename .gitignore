@@ -1,0 +1,19 @@
+# for testing
+geckodriver.log
+
+# python
+__pycache__
+*.pyc
+*.pyo
+
+# other
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
